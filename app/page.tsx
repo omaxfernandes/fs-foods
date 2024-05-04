@@ -13,6 +13,17 @@ export default function Home() {
       <div className="px-5 pt-6">
         <CategoryList />
       </div>
+      <div className="px-5 pt-6">
+        <Image
+          className="h-auto w-full object-contain"
+          src="/promo-banner-01.png"
+          alt="Até 30% de desconto em pizas!"
+          width={0}
+          height={0}
+          sizes="100vw"
+          quality={100}
+        />
+      </div>
     </>
   )
 }
