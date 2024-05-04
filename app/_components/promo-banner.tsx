@@ -1,8 +1,8 @@
-import Image from 'next/image'
+import Image, { ImageProps } from 'next/image'
 
 interface PromoBannerProps {}
 
-const PromoBanner = (props: PromoBannerProps) => {
+const PromoBanner = (props: ImageProps) => {
   return (
     <Image
       className="h-auto w-full object-contain"
