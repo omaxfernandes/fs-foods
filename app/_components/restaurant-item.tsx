@@ -25,7 +25,7 @@ const RestaurantItem = ({ restaurant }: RestaurantItemProps) => {
         <Button
           size="icon"
           className={
-            "'bg-primary hover:bg-gray-700'} absolute right-2 top-2 h-7 w-7  rounded-full bg-gray-700"
+            "hover:bg-gray-700'} absolute right-2 top-2 h-7 w-7 rounded-full  bg-gray-700 bg-primary"
           }
         >
           <HeartIcon size={16} className="fill-white" />
