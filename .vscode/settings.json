@@ -2,5 +2,6 @@
   "eslint.codeActionsOnSave.mode": "all",
   "editor.codeActionsOnSave": {
     "source.fixAll": "always"
-  }
+  },
+  "WillLuke.nextjs.hasPrompted": true
 }
