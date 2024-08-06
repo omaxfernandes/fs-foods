@@ -33,7 +33,7 @@ Now populate the date base using the seed script
 npx prisma db seed 
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
 
 
 
